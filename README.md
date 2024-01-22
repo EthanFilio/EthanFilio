@@ -1,1 +1,3 @@
-Hello! This serves as Ethan Filio's official repository. He is currently a 1st year BS Computer Science Student 🚀
+👋 Hello, World!
+
+My name is Ethan Filio. I am currently a 1st year BS CS student from the University of the Philippines-Diliman. As a newbie programmer, I am currently exploring the wonderful Python language.
